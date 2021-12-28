@@ -1,2 +1,6 @@
 Test. Test 2. Test 3.
+<<<<<<< HEAD
 Test5.
+=======
+Test 4.
+>>>>>>> 0bb840955e7ec43a90bdf2a9a8ff9d5e0619411e
